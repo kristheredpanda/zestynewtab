@@ -1,0 +1,54 @@
+body{
+    background-image: url(backgrounds/background1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+.actualbody{
+    width: 100vw;
+    height: 100vh;
+}
+
+.lbl1{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+.searchform{
+    text-align: center;
+}
+
+.lemon1{
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+}
+
+.fverchk{
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.fseparator{
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fcredits{
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
